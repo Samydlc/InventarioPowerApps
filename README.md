@@ -1,0 +1,2 @@
+# InventarioPowerApps
+inventario de telas
